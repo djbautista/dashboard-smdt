@@ -13,7 +13,7 @@
     "react-force-graph": "^1.30.0",
     "react-loading": "^2.0.3",
     "react-loading-overlay": "^1.0.1",
-    "react-scripts": "3.3.0",
+    "react-scripts": "5.0.1",
     "react-spinners": "^0.8.0",
     "react-twitter-embed": "^3.0.3"
   },
